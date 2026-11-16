@@ -1,3 +1,3 @@
-Noi dung 1
+Noi dung 2
 TH.MNM-lab6
 docs: update README with project description
